@@ -1,0 +1,107 @@
+
+main {
+    background-color: #f25c057e;
+}
+/*cabeçalho*/
+navbar-toggler-icon {
+    border: none;           
+}
+
+a.nav-link {
+    text-align: center;
+    color: white;
+    background-color: #f25c057e;
+    margin-right: 10px;
+    border-radius: 10px;
+       
+    
+}
+    
+
+header {
+    background-color: #d9b571bb;
+    margin: 10px 0 10px 0;
+    padding: 20px 110px;
+}
+
+/*Conteudo principal*/
+
+
+/*banner*/
+
+#section-banner img {
+    height: 200px;
+}
+
+/*Produtos vendidos*/
+
+
+#section-vendidos {
+    text-align: center;
+        
+}
+#section-vendidos h2 {
+    font-weight: bold;
+    padding: 20px;
+    color: #592E2E;    
+}
+
+
+h4.card-title {
+    font-weight: 700;
+    font: bold;
+    color: #592E2E;
+    background-color: #d9b571bb;
+    border-radius: 5px;
+    
+}
+
+#section-vendidos img {
+    height: auto;   
+    border-radius: 10px;
+    
+}
+#section-vendidos .card {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+
+
+/*Rodapé*/
+footer {
+    text-align: center;
+    background-color: #592E2E;
+    padding: auto;    
+}
+
+footer h4 {
+    font: 35px sans-serif;
+    padding-top: 30px;   
+    color: antiquewhite;
+    margin-top: 10px;
+}
+
+footer p {
+    font: 1em sans-serif;
+    padding: 30px 10px 50px;
+    color: antiquewhite;
+    margin-top: 10px;
+    
+}
+
+/*Botão Voltar topo*/
+#voltar-topo {
+    position: fixed;
+    bottom: 30px;
+    left: 50px;
+    z-index: 999;
+}
+
+
+/* página de login  */
+
+
+/* Formulário de cadastro*/
+
